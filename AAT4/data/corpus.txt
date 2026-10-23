@@ -1,0 +1,10 @@
+Neural networks learn patterns from data using layers, weights, activation functions, and gradient descent.
+Machine learning models use training data to predict labels, values, and future outcomes.
+Climate research studies rainfall, temperature, storms, and long-term environmental changes.
+Weather forecasting combines observations, numerical models, and satellite measurements.
+Natural language processing works with tokens, text classification, translation, and language models.
+Search engines rank web pages using keywords, relevance signals, and document retrieval.
+Deep learning uses neural networks for images, speech recognition, and language understanding.
+Environmental monitoring tracks air quality, water levels, rainfall, and ecosystem health.
+Topic modelling groups documents by recurring word patterns without requiring labels.
+Information retrieval finds documents relevant to a user query from a collection.

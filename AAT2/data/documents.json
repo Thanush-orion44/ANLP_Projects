@@ -1,0 +1,7 @@
+[
+ {"title":"What is NLP?","text":"Natural language processing is a field of artificial intelligence that enables computers to process, understand, and generate human language."},
+ {"title":"Tokenization","text":"Tokenization splits text into smaller units such as words, subwords, or sentences before further language processing."},
+ {"title":"TF-IDF","text":"Term frequency inverse document frequency gives higher weight to words important in one document but uncommon across the collection."},
+ {"title":"Named entity recognition","text":"Named entity recognition identifies names of people, organizations, locations, dates, and other entity categories in text."},
+ {"title":"Text classification","text":"Text classification assigns a label to a document, such as spam or not spam, sentiment category, or topic."}
+]
